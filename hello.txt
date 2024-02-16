@@ -6,3 +6,4 @@ REVERSAL
 на новом компьютере
 TEST S NOVSM REPOM esco nemnoogo
 teper сново новый комп
+merge пробую
