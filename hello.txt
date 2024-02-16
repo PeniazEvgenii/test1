@@ -7,3 +7,5 @@ REVERSAL
 TEST S NOVSM REPOM esco nemnoogo
 teper сново новый комп
 merge merge merge
+merge пробую
+
